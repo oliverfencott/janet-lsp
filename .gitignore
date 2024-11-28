@@ -3,3 +3,5 @@ jpm_tree/**
 .clj-kondo
 .lsp
 .vscode
+
+**/*.janet.tested
